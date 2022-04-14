@@ -155,5 +155,3 @@
 **[Ch20.. 파이어베이스 연동과 인증 기능](https://ccclean.tistory.com/234?category=1082777)**
 
 **[Ch21. 파이어스토어/스토리지/FCM](https://ccclean.tistory.com/235?category=1082777)**
-
-**정리 중**
