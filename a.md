@@ -1,5 +1,3 @@
-# TIL (Today I Learned)
-
 ### [**TIL 정리 블로그](https://ccclean.tistory.com/)**
 
 ---
