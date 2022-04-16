@@ -160,8 +160,6 @@
 
 # [JAVA]
 
-[JAVA (1)](https://www.notion.so/JAVA-1-b9fc2d4ca3764d6b9f0f562f14ce9ca7)
-
 ## JAVA 개념 정리
 
 📌[완료] 혼자 공부하는 JAVA 
