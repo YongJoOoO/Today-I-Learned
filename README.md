@@ -217,3 +217,11 @@
 [**Ch07. 설계와 구현** (1)](https://www.notion.so/Ch07-1-58bf4de8c6514a27bef56b31c2a1d51c)
 
 [Ch08. **소프트웨어 테스팅** (1)](https://www.notion.so/Ch08-1-130fe775d0c946108055aa193ef49919)
+
+# [빅데이터 R언어]
+
+[R 소개](https://www.notion.so/R-7be1cbc434a24d618ff5c30ad701c4bd)
+
+[데이터분석 기초](https://www.notion.so/4670f59bfce24abaa81d1c3152e8091b)
+
+[빅데이터 ggplot → 그래프 그리기 ](https://www.notion.so/ggplot-7569db797ffd4337a0dca41199f86951)
