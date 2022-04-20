@@ -94,6 +94,8 @@
 
 **[6주차 | 스프링 @ComponentScan 실습](https://ccclean.tistory.com/249?category=1086059)** 
 
+**[7주차 | 스프링 AOP 실습](https://ccclean.tistory.com/271?category=1086059)** 
+
      . . . (진행 중)
 
 # [Android]
