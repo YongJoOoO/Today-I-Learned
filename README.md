@@ -135,7 +135,7 @@
 
 **[Ch21. 파이어스토어/스토리지/FCM](https://ccclean.tistory.com/235?category=1082777)**
 
-### 🟩 JAVA 개념 정리
+### 🟩 JAVA
 
        📌[완료] 혼자 공부하는 JAVA    
 
@@ -166,6 +166,78 @@
 [**ch13. 컬렉션 프레임워크** (1)](https://www.notion.so/ch13-1-47088e0fafaf403894f68e5fb4c1fb8d)
 
 [**ch14. 입출력 스트림** (1)](https://www.notion.so/ch14-1-8c6fee389a634525985c86f6cbdbda0e)
+
+### 🟩 Java GUI
+
+**[GUI_그래픽 사용자 인터페이스](https://ccclean.tistory.com/45?category=1046557)** 
+
+**[GUI_인터페이스, 람다식, 패키지](https://ccclean.tistory.com/48?category=1046557)** 
+
+**[GUI_이벤트 처리 구동 프로그래밍](https://ccclean.tistory.com/51?category=1046557)** 
+
+**[GUI_그래픽 프로그래밍](https://ccclean.tistory.com/53?category=1046557)** 
+
+**[GUI_스윙 컴포넌트들](https://ccclean.tistory.com/54?category=1046557)** 
+
+**[GUI_캡쳐 프로그램](https://ccclean.tistory.com/76?category=1046557)**
+
+**[GUI_마우스 이벤트_사각형 그리기](https://ccclean.tistory.com/77?category=1046557)** 
+
+### 🟩 C언어
+
+**[프로그래밍 기초_C언어](https://ccclean.tistory.com/15?category=1038222)** 
+
+**[나도코딩_C언어_전범위](https://ccclean.tistory.com/15?category=1038222)**
+
+**[혼공 C언어_전범위](https://ccclean.tistory.com/16?category=1038222)** 
+
+**[파일 입출력](https://ccclean.tistory.com/65?category=1038222)** 
+
+**[프로그래밍 응용_변수](https://ccclean.tistory.com/90?category=1038222)**
+
+**[프로그래밍 응용_배열](https://ccclean.tistory.com/91?category=1038222)**
+
+**[프로그래밍 응용_포인터](https://ccclean.tistory.com/92?category=1038222)**
+
+### 🟩 Python
+
+**[ch01. 파이썬 시작](https://ccclean.tistory.com/39?category=1045475)** 
+
+**[ch02. 자료형](https://ccclean.tistory.com/40?category=1045475)**
+
+**[ch03. 조건문](https://ccclean.tistory.com/43?category=1045475)**
+
+**[ch04. 반복문](https://ccclean.tistory.com/44?category=1045475)**
+
+**[ch05. 함수](https://ccclean.tistory.com/46?category=1045475)**
+
+### 🟩 Python GUI
+
+**[VSCode_pyGame 환경 설치 오류 해결](https://ccclean.tistory.com/42?category=1046084)**
+
+**[파이썬_for Beginner_(1)](https://ccclean.tistory.com/93?category=1046084)** 
+
+**[파이썬_for Beginner_(2)](https://ccclean.tistory.com/94?category=1046084)**
+
+**[파이썬_for Beginner_(3)](https://ccclean.tistory.com/95?category=1046084)**
+
+**[나도코딩_Python_GUI_윈도우 규격 만들기](https://ccclean.tistory.com/98?category=1046084)** 
+
+**[나도코딩_Python_GUI_내가 지정한 이미지로 frame 설정](https://ccclean.tistory.com/99?category=1046084)** 
+
+**[나도코딩_Python_GUI_KEY 이벤트 연결](https://ccclean.tistory.com/100?category=1046084)**
+
+### 🟩 컴퓨터 구조론
+
+     ** [2장. 연습문제](https://ccclean.tistory.com/3?category=1038223)**
+
+**[3장. 연습문제](https://ccclean.tistory.com/7?category=1038223)**
+
+**[4장. 연습문제](https://ccclean.tistory.com/11?category=1038223)**
+
+**[5장. 연습문제](https://ccclean.tistory.com/12?category=1038223)**
+
+**[6장. 연습문제](https://ccclean.tistory.com/13?category=1038223)**
 
 ### 🟩 소프트웨어 공학
 
