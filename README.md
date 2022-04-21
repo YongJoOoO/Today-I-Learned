@@ -1,17 +1,6 @@
-### [**TIL 정리 블로그](https://ccclean.tistory.com/)**
+## TIL (Today I Learned)
 
----
-
-<aside>
-💡 **공부한 내용 정리**
-
-</aside>
-
-# [Spring]
-
-[Spring정리 모음](https://www.notion.so/Spring-9cb57734ce9640938c7186055089d573)
-
-# 🟩 Java Spring 기본 정리
+### 🟩 Java Spring 기본 정리
 
    📌 [완료] 초보 웹 개발자를 위한 스프링 5
 
@@ -49,9 +38,7 @@
 
 **[Ch17. 프로필과 프로퍼티 파일](https://ccclean.tistory.com/167?category=1074081)** 
 
----
-
-# 🟩 Java Spring Framework
+### 🟩 Java Spring Framework
 
    📌 [완강] SpringFramework 개발자를 위한 실습 입문 과정
 
@@ -64,9 +51,7 @@
 7. **[AOP 관점지향 프로그래밍](https://ccclean.tistory.com/188?category=1078337)**
 8. **[JDBC & MyBatis-DB연동](https://ccclean.tistory.com/190?category=1078337)**
 
----
-
-# 🟩 Java Spring MVC
+### 🟩 Java Spring MVC
 
    📌 [진행 중] 만들면서 배우는 Spring MVC 5
 
@@ -76,9 +61,9 @@
 4. 
     
          . . . (진행 중)
----
+    
 
-## 🟦 [학교] Spring Framework
+### 🟩 [학교] Spring Framework
 
      📌 [진행 중] 학교 실습
 
@@ -96,13 +81,7 @@
 
      . . . (진행 중)
 
-# [Android]
-
----
-
-[Android 정리 모음](https://www.notion.so/Android-12b85177be4a4b90be011a58edc4f02f)
-
-# 🟩 Kotlin 문법 정리
+### 🟩 Kotlin 문법 정리
 
      📌 [완강] Joyce - 코틀린 문법 3강으로 끝내기
 
@@ -110,9 +89,7 @@
 
 **[2강. 코틀린 고급 문법](https://ccclean.tistory.com/209?category=1082477)** 
 
----
-
-# 🟩 Android App 앱 프로그래밍
+### 🟩 Android App 앱 프로그래밍
 
      📌 [완료] 깡쌤의 안드로이드 앱 프로그래밍 with 코틀린
 
@@ -158,11 +135,9 @@
 
 **[Ch21. 파이어스토어/스토리지/FCM](https://ccclean.tistory.com/235?category=1082777)**
 
-# [JAVA]
+### 🟩 JAVA 개념 정리
 
-## JAVA 개념 정리
-
-📌[완료] 혼자 공부하는 JAVA 
+       📌[완료] 혼자 공부하는 JAVA    
 
 [ch01. 자바 시작하기 (1)](https://www.notion.so/ch01-1-a3a7531d230e49b3a76d37177e7d7c7f)
 
@@ -192,15 +167,7 @@
 
 [**ch14. 입출력 스트림** (1)](https://www.notion.so/ch14-1-8c6fee389a634525985c86f6cbdbda0e)
 
-## JAVA GUI 정리
-
-[Java GUI 정리](https://www.notion.so/Java-GUI-73e0ccb821e64b6eb7b7e2c12a0a8499)
-
-# [SoftwareEngineering]
-
-[정보처리기사 관련 정리 ](https://www.notion.so/1d62576e8189419ea1ee54a786b07735)
-
-## 🟦 [학교] 소프트웨어 공학 정리
+### 🟩 소프트웨어 공학
 
 📌**[Ch01. 서론](https://ccclean.tistory.com/219?category=1086250)**
 
@@ -218,7 +185,7 @@
 
 [Ch08. **소프트웨어 테스팅** (1)](https://www.notion.so/Ch08-1-130fe775d0c946108055aa193ef49919)
 
-# [빅데이터 R언어]
+### 🟩 빅데이터
 
 [R 소개](https://www.notion.so/R-7be1cbc434a24d618ff5c30ad701c4bd)
 
