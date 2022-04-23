@@ -264,3 +264,5 @@
 [데이터분석 기초](https://www.notion.so/4670f59bfce24abaa81d1c3152e8091b)
 
 [빅데이터 ggplot → 그래프 그리기 ](https://www.notion.so/ggplot-7569db797ffd4337a0dca41199f86951)
+
+
