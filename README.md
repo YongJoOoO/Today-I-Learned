@@ -259,10 +259,18 @@
 
 ### 🟩 빅데이터
 
-[R 소개](https://www.notion.so/R-7be1cbc434a24d618ff5c30ad701c4bd)
+**[R_Studio IDE 설치](https://ccclean.tistory.com/246?category=1091111)** 
 
-[데이터분석 기초](https://www.notion.so/4670f59bfce24abaa81d1c3152e8091b)
+**[R 기본 문법](https://ccclean.tistory.com/252?category=1091111)** 
 
-[빅데이터 ggplot → 그래프 그리기 ](https://www.notion.so/ggplot-7569db797ffd4337a0dca41199f86951)
+**[R 소개](https://ccclean.tistory.com/263?category=1091111)**
 
-[확률 ](https://www.notion.so/73e368b3a8944ae49a463dddb8f279d3)
+**[데이터분석 기초](https://ccclean.tistory.com/265?category=1091111)**
+
+**[빅데이터 ggplot → 그래프 그리기](https://ccclean.tistory.com/267?category=1091111)**
+
+**[데이터 시각화](https://ccclean.tistory.com/268?category=1091111)**
+
+**[확률 입문](https://ccclean.tistory.com/273?category=1091111)** 
+
+**[추정 및 검정](https://ccclean.tistory.com/274?category=1091111)**
