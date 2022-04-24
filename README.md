@@ -1,4 +1,4 @@
-## TIL (Today I Learned)
+# TIL (Today I Learned)
 
 ### 🟩 Java Spring 기본 정리
 
@@ -264,3 +264,5 @@
 [데이터분석 기초](https://www.notion.so/4670f59bfce24abaa81d1c3152e8091b)
 
 [빅데이터 ggplot → 그래프 그리기 ](https://www.notion.so/ggplot-7569db797ffd4337a0dca41199f86951)
+
+[확률 ](https://www.notion.so/73e368b3a8944ae49a463dddb8f279d3)
