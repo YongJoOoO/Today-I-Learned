@@ -137,7 +137,7 @@
 
 ### 🟩 JAVA
 
-       📌[완료] 혼자 공부하는 JAVA    
+     📌[완료] 혼자 공부하는 JAVA    
 
 [ch01. 자바 시작하기 (1)](https://www.notion.so/ch01-1-a3a7531d230e49b3a76d37177e7d7c7f)
 
