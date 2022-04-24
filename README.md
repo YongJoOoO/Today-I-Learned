@@ -229,7 +229,7 @@
 
 ### 🟩 컴퓨터 구조론
 
-     ** [2장. 연습문제](https://ccclean.tistory.com/3?category=1038223)**
+**[2장. 연습문제](https://ccclean.tistory.com/3?category=1038223)**
 
 **[3장. 연습문제](https://ccclean.tistory.com/7?category=1038223)**
 
