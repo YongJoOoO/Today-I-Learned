@@ -229,7 +229,12 @@
 
 ### 🟩 컴퓨터 구조론
 
-**[2장. 연습문제](https://ccclean.tistory.com/3?category=1038223)**
+<aside>
+📌 생능출판사 - 컴퓨터 구조론
+
+</aside>
+
+     **[2장. 연습문제](https://ccclean.tistory.com/3?category=1038223)**
 
 **[3장. 연습문제](https://ccclean.tistory.com/7?category=1038223)**
 
@@ -240,6 +245,11 @@
 **[6장. 연습문제](https://ccclean.tistory.com/13?category=1038223)**
 
 ### 🟩 소프트웨어 공학
+
+<aside>
+📌 [교재] 소프트웨어 공학 10판
+
+</aside>
 
 📌**[Ch01. 서론](https://ccclean.tistory.com/219?category=1086250)**
 
@@ -258,6 +268,11 @@
 [Ch08. **소프트웨어 테스팅** (1)](https://www.notion.so/Ch08-1-130fe775d0c946108055aa193ef49919)
 
 ### 🟩 빅데이터
+
+<aside>
+📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론
+
+</aside>
 
 **[R_Studio IDE 설치](https://ccclean.tistory.com/246?category=1091111)** 
 
