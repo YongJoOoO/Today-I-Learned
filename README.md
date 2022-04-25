@@ -1,8 +1,7 @@
 # TIL (Today I Learned)
 
 ### 🟩 Java Spring 기본 정리
-
-   📌 [완료] 초보 웹 개발자를 위한 스프링 5
+📌 [완료] 초보 웹 개발자를 위한 스프링 5
 
 [**Ch01. 스프링 기본 설명**](https://ccclean.tistory.com/139?category=1074081)
 
@@ -38,9 +37,9 @@
 
 **[Ch17. 프로필과 프로퍼티 파일](https://ccclean.tistory.com/167?category=1074081)** 
 
-### 🟩 Java Spring Framework
 
-   📌 [완강] SpringFramework 개발자를 위한 실습 입문 과정
+### 🟩 Java Spring Framework
+📌 [완강] SpringFramework 개발자를 위한 실습 입문 과정
 
 1. **[개발환경 구축](https://ccclean.tistory.com/172?category=1078337)** 
 2. **[Maven 기반 기본 스프링 프로젝트 생성](https://ccclean.tistory.com/176?category=1078337)** 
@@ -51,21 +50,19 @@
 7. **[AOP 관점지향 프로그래밍](https://ccclean.tistory.com/188?category=1078337)**
 8. **[JDBC & MyBatis-DB연동](https://ccclean.tistory.com/190?category=1078337)**
 
-### 🟩 Java Spring MVC
 
-   📌 [진행 중] 만들면서 배우는 Spring MVC 5
+### 🟩 Java Spring MVC
+📌 [진행 중] 만들면서 배우는 Spring MVC 5
 
 1. **[Spring MVC 소개 및 프로젝트 세팅](https://ccclean.tistory.com/197?category=1081413)** 
 2. **[Spring MVC 다양한 기능들 -(1)](https://ccclean.tistory.com/199?category=1081413)** 
 3. **[Spring MVC 다양한 기능들 -(2)](https://ccclean.tistory.com/240?category=1081413)** 
-4. 
-    
-         . . . (진행 중)
-    
+
+ . . (진행 중)
+
 
 ### 🟩 [학교] Spring Framework
-
-     📌 [진행 중] 학교 실습
+📌 [진행 중] 학교 실습
 
 **[1-2주차 | STS 설치](https://ccclean.tistory.com/216?category=1086059)**
 
@@ -79,19 +76,69 @@
 
 **[7주차 | 스프링 AOP 실습](https://ccclean.tistory.com/271?category=1086059)** 
 
-     . . . (진행 중)
+. . . (진행 중)
+
 
 ### 🟩 Kotlin 문법 정리
-
-     📌 [완강] Joyce - 코틀린 문법 3강으로 끝내기
+📌 [완강] Joyce - 코틀린 문법 3강으로 끝내기
 
 **[1강. 코틀린 기본 문법](https://ccclean.tistory.com/207?category=1082477)**
 
 **[2강. 코틀린 고급 문법](https://ccclean.tistory.com/209?category=1082477)** 
 
-### 🟩 Android App 앱 프로그래밍
 
-     📌 [완료] 깡쌤의 안드로이드 앱 프로그래밍 with 코틀린
+### 🟩 JAVA
+📌[완료] 혼자 공부하는 JAVA    
+
+[ch01. 자바 시작하기 (1)](https://www.notion.so/ch01-1-fe1adc9f6d3a494b9d053aa48595ea9b)
+
+[**ch02. 변수와 타입** (1)](https://www.notion.so/ch02-1-776b8b207a684686b21f85e684fd0473)
+
+[**ch03. 연산자** (1)](https://www.notion.so/ch03-1-56a096c07fa3424f95936b7fe19dfa13)
+
+[**ch04. 흐름 제어문 (조건문과 반복문)** (1)](https://www.notion.so/ch04-1-c2f5435df6464a71a8b7ecedbc6e1421)
+
+[**ch05. 참조 타입** (1)](https://www.notion.so/ch05-1-cd57bfdfdeed4ffe9ee41bcb9e243ceb)
+
+[**ch06. 클래스** (1)](https://www.notion.so/ch06-1-97d8f00ed15c4cb49082fea417c3bdfa)
+
+[**ch07. 상속** (1)](https://www.notion.so/ch07-1-bd48651d12c7402b9185f9e6c2ef86d3)
+
+[**ch08. 인터페이스** (1)](https://www.notion.so/ch08-1-6f45ba98549e4980883a9260c66ce754)
+
+[**ch09. 중첩 클래스와 중첩 인터페이스** (1)](https://www.notion.so/ch09-1-b27ded1dbfc947f389111627910cdb04)
+
+[**ch10. 예외 처리** (1)](https://www.notion.so/ch10-1-a43a7ce382b242ccba4d27eb82f53a13)
+
+[**ch11. 기본 API 클래스** (1)](https://www.notion.so/ch11-API-1-f2f1a718b71a467b9a7a2f66f5af80ab)
+
+[**ch12. 스레드** (1)](https://www.notion.so/ch12-1-aca7a5b84678492a9ff57b82c2ea8c53)
+
+[**ch13. 컬렉션 프레임워크** (1)](https://www.notion.so/ch13-1-8569dd48a5924ed6b8bdd19ef4309ad4)
+
+[**ch14. 입출력 스트림** (1)](https://www.notion.so/ch14-1-e9684da54e4e4c9a9071b75f49417170)
+
+
+
+### 🟩 Java GUI
+
+**[GUI_그래픽 사용자 인터페이스](https://ccclean.tistory.com/45?category=1046557)** 
+
+**[GUI_인터페이스, 람다식, 패키지](https://ccclean.tistory.com/48?category=1046557)** 
+
+**[GUI_이벤트 처리 구동 프로그래밍](https://ccclean.tistory.com/51?category=1046557)** 
+
+**[GUI_그래픽 프로그래밍](https://ccclean.tistory.com/53?category=1046557)** 
+
+**[GUI_스윙 컴포넌트들](https://ccclean.tistory.com/54?category=1046557)** 
+
+**[GUI_캡쳐 프로그램](https://ccclean.tistory.com/76?category=1046557)**
+
+**[GUI_마우스 이벤트_사각형 그리기](https://ccclean.tistory.com/77?category=1046557)** 
+
+
+### 🟩 Android App 앱 프로그래밍
+ **📌 [완료] 깡쌤의 안드로이드 앱 프로그래밍 with 코틀린**
 
 **[Ch01. Android Studio 기본 환경 설정](https://ccclean.tistory.com/201?category=1082777)**
 
@@ -133,55 +180,8 @@
 
 **[Ch20.. 파이어베이스 연동과 인증 기능](https://ccclean.tistory.com/234?category=1082777)**
 
-**[Ch21. 파이어스토어/스토리지/FCM](https://ccclean.tistory.com/235?category=1082777)**
+**[Ch21. 파이어스토어/스토리지/FCM](https://ccclean.tistory.com/235?category=1082777) [](https://ccclean.tistory.com/77?category=1046557)**
 
-### 🟩 JAVA
-
-     📌[완료] 혼자 공부하는 JAVA    
-
-[ch01. 자바 시작하기 (1)](https://www.notion.so/ch01-1-a3a7531d230e49b3a76d37177e7d7c7f)
-
-[**ch02. 변수와 타입** (1)](https://www.notion.so/ch02-1-5980a17fbeb54e1eae54f64e50b5c4cf)
-
-[**ch03. 연산자** (1)](https://www.notion.so/ch03-1-12403c3c45674b61bded454abb099928)
-
-[**ch04. 흐름 제어문 (조건문과 반복문)** (1)](https://www.notion.so/ch04-1-8df25c337ac9415eab0665e95c13dd00)
-
-[**ch05. 참조 타입** (1)](https://www.notion.so/ch05-1-1dde932caf4a4898b27f8fe3daf8c9e7)
-
-[**ch06. 클래스** (1)](https://www.notion.so/ch06-1-875fd3e0139b40eeb827aa68ae89d8f6)
-
-[**ch07. 상속** (1)](https://www.notion.so/ch07-1-1dd7e50b5ad740db8c61d7a2eec5ffd3)
-
-[**ch08. 인터페이스** (1)](https://www.notion.so/ch08-1-53565398312644b39224033c41a2778e)
-
-[**ch09. 중첩 클래스와 중첩 인터페이스** (1)](https://www.notion.so/ch09-1-aa85303c8f554fe08b68fdd265dd4c18)
-
-[**ch10. 예외 처리** (1)](https://www.notion.so/ch10-1-89d2d69b77874f32ad4b183eb3a59d01)
-
-[**ch11. 기본 API 클래스** (1)](https://www.notion.so/ch11-API-1-6edd0712e6b64e368974c1212e1e815e)
-
-[**ch12. 스레드** (1)](https://www.notion.so/ch12-1-d7478079fadb4bf3b856e74223708b94)
-
-[**ch13. 컬렉션 프레임워크** (1)](https://www.notion.so/ch13-1-47088e0fafaf403894f68e5fb4c1fb8d)
-
-[**ch14. 입출력 스트림** (1)](https://www.notion.so/ch14-1-8c6fee389a634525985c86f6cbdbda0e)
-
-### 🟩 Java GUI
-
-**[GUI_그래픽 사용자 인터페이스](https://ccclean.tistory.com/45?category=1046557)** 
-
-**[GUI_인터페이스, 람다식, 패키지](https://ccclean.tistory.com/48?category=1046557)** 
-
-**[GUI_이벤트 처리 구동 프로그래밍](https://ccclean.tistory.com/51?category=1046557)** 
-
-**[GUI_그래픽 프로그래밍](https://ccclean.tistory.com/53?category=1046557)** 
-
-**[GUI_스윙 컴포넌트들](https://ccclean.tistory.com/54?category=1046557)** 
-
-**[GUI_캡쳐 프로그램](https://ccclean.tistory.com/76?category=1046557)**
-
-**[GUI_마우스 이벤트_사각형 그리기](https://ccclean.tistory.com/77?category=1046557)** 
 
 ### 🟩 C언어
 
@@ -199,6 +199,7 @@
 
 **[프로그래밍 응용_포인터](https://ccclean.tistory.com/92?category=1038222)**
 
+
 ### 🟩 Python
 
 **[ch01. 파이썬 시작](https://ccclean.tistory.com/39?category=1045475)** 
@@ -210,6 +211,7 @@
 **[ch04. 반복문](https://ccclean.tistory.com/44?category=1045475)**
 
 **[ch05. 함수](https://ccclean.tistory.com/46?category=1045475)**
+
 
 ### 🟩 Python GUI
 
@@ -227,11 +229,11 @@
 
 **[나도코딩_Python_GUI_KEY 이벤트 연결](https://ccclean.tistory.com/100?category=1046084)**
 
+
 ### 🟩 컴퓨터 구조론
+ **📌 [교재] 생능 - 컴퓨터구조론** 
 
-     📌 생능출판사 - 컴퓨터 구조론
-
-**[2장. 연습문제](https://ccclean.tistory.com/3?category=1038223)**
+ **[2장. 연습문제](https://ccclean.tistory.com/3?category=1038223)**
 
 **[3장. 연습문제](https://ccclean.tistory.com/7?category=1038223)**
 
@@ -241,29 +243,44 @@
 
 **[6장. 연습문제](https://ccclean.tistory.com/13?category=1038223)**
 
+
+
+### 🟩 운영체제
+ **📌[교재] 공룡책 - 운영체제**
+
+**[프로세스 우선순위 큐 구현](https://ccclean.tistory.com/71?category=1064678)**
+
+**[메모리 할당 방식 구현](https://ccclean.tistory.com/72?category=1064678)**
+
+**[운영체제 5장 연습문제](https://ccclean.tistory.com/73?category=1064678)**
+
+**[운영체제 10장 연습문제](https://ccclean.tistory.com/73?category=1064678)**
+
+
 ### 🟩 소프트웨어 공학
 
-     📌 [교재] 소프트웨어 공학 10판
+       **📌 [교재] 소프트웨어 공학 10판- 한티미디어**
 
-📌**[Ch01. 서론](https://ccclean.tistory.com/219?category=1086250)**
+[**Ch01. 서론**](https://ccclean.tistory.com/219?category=1086250)
 
-📌**[Ch02. 소프트웨어 프로세스](https://ccclean.tistory.com/220?category=1086250)** 
+[**Ch02. 소프트웨어 프로세스**](https://ccclean.tistory.com/220?category=1086250) 
 
-📌**[Ch03. 애자일 소프트웨어 개발](https://ccclean.tistory.com/224?category=1086250)**
+[**Ch03. 애자일 소프트웨어 개발**](https://ccclean.tistory.com/224?category=1086250)
 
-📌**[Ch04. 요구공학](https://ccclean.tistory.com/244?category=1086250)**
+[**Ch04. 요구공학**](https://ccclean.tistory.com/244?category=1086250)
 
-📌**[Ch05. 시스템 모델링](https://ccclean.tistory.com/245?category=1086250)**
+[**Ch05. 시스템 모델링**](https://ccclean.tistory.com/245?category=1086250)
 
-[ Ch06. 아키텍처 설계 (1)](https://www.notion.so/Ch06-1-ea5e6ee52c24478ea893f238b5eba367)
+**[Ch06. 아키텍처 설계](https://ccclean.tistory.com/260?category=1086250)**
 
-[**Ch07. 설계와 구현** (1)](https://www.notion.so/Ch07-1-58bf4de8c6514a27bef56b31c2a1d51c)
+**[Ch07. 설계와 구현](https://ccclean.tistory.com/261?category=1086250)**
 
-[Ch08. **소프트웨어 테스팅** (1)](https://www.notion.so/Ch08-1-130fe775d0c946108055aa193ef49919)
+**[Ch08. 소프트웨어 테스팅](https://ccclean.tistory.com/262?category=1086250)** 
+
 
 ### 🟩 빅데이터
 
-     📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론
+     **📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론**  
 
 **[R_Studio IDE 설치](https://ccclean.tistory.com/246?category=1091111)** 
 
