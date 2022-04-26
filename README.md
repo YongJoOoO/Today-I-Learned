@@ -76,6 +76,10 @@
 
 **[7주차 | 스프링 AOP 실습](https://ccclean.tistory.com/271?category=1086059)** 
 
+ **➕ [AOP 개념 복습](https://ccclean.tistory.com/277)**
+
+ **➕ [MySQL 설치](https://ccclean.tistory.com/278)**
+
 . . . (진행 중)
 
 
