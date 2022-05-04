@@ -76,9 +76,11 @@
 
 **[7주차 | 스프링 AOP 실습](https://ccclean.tistory.com/271?category=1086059)** 
 
- **➕ [AOP 개념 복습](https://ccclean.tistory.com/277)**
+**[9주차| 스프링 JDBC 실습](https://ccclean.tistory.com/283)** 
 
- **➕ [MySQL 설치](https://ccclean.tistory.com/278)**
+**➕ [AOP 개념 복습](https://ccclean.tistory.com/277)**
+
+**➕ [MySQL 설치](https://ccclean.tistory.com/278)**
 
 . . . (진행 중)
 
@@ -299,3 +301,8 @@
 **[확률 입문](https://ccclean.tistory.com/273?category=1091111)** 
 
 **[추정 및 검정](https://ccclean.tistory.com/274?category=1091111)**
+
+
+
+
+
