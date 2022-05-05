@@ -281,6 +281,8 @@
 
 **[Ch08. 소프트웨어 테스팅](https://ccclean.tistory.com/262?category=1086250)** 
 
+**[JUnit을 활용한 테스팅 커버리지](https://ccclean.tistory.com/285)**
+
 
 ### 🟩 빅데이터
 
