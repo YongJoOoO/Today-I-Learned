@@ -284,6 +284,7 @@
 **[JUnit을 활용한 테스팅 커버리지](https://ccclean.tistory.com/285)**
 
 
+
 ### 🟩 빅데이터
 
 **📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론**  
@@ -303,8 +304,3 @@
 **[확률 입문](https://ccclean.tistory.com/273?category=1091111)** 
 
 **[추정 및 검정](https://ccclean.tistory.com/274?category=1091111)**
-
-
-
-
-
