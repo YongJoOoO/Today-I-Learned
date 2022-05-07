@@ -91,6 +91,16 @@
 
 **[2강. 코틀린 고급 문법](https://ccclean.tistory.com/209?category=1082477)** 
 
+📌 [강의] Android를 위한 Kotlin 문법 총정리 
+
+**[Kotlin 문법 [기본편1]](https://ccclean.tistory.com/287)**
+
+**[Kotlin 문법 [기본편2]](https://ccclean.tistory.com/288?category=1082477)**
+
+**[Kotlin 문법 [심화편]](https://ccclean.tistory.com/289?category=1082477)**
+
+**[Kotlin 문법 [코딩테스트편]](https://ccclean.tistory.com/290?category=1082477)**
+
 
 ### 🟩 JAVA
 📌[완료] 혼자 공부하는 JAVA    
@@ -304,7 +314,3 @@
 **[확률 입문](https://ccclean.tistory.com/273?category=1091111)** 
 
 **[추정 및 검정](https://ccclean.tistory.com/274?category=1091111)**
-
-
-
-
