@@ -61,4 +61,38 @@ fun solution(emailList: ArrayList<String>) : Map<String, Int> {
     
     return resultMap //반환해줌 
 }
+```\
+## 2. 문자열의 숫자 및 홀짝 구분
+
+**[문제] 문자열의 숫자와 짝수(true)와 홀수(false)를 알려주는 solution을 만드세요**
+
+**[풀이]**
+
+```kotlin
+fun main(){
+
+    val result1 = solution("abcd")
+    println(result1)
+    // [4, true]
+
+    val result2 = solution("abcde")
+    println(result2)
+    // [5, false]
+}
+
+fun solution(str : String) : ArrayList<String> {
+
+    var StringLength = str.length
+    var TF = true
+    
+    if(StringLength % 2 == 0) { // 짝수이면 
+        TF = true 
+    }else {
+        TF = false
+    }
+	
+    val returnList = arrayListOf<String> (StringLength.toString(), TF.toString())
+    
+    return returnList
+}
 ```
