@@ -93,13 +93,13 @@
 
 📌 [강의] Android를 위한 Kotlin 문법 총정리 
 
-**[Kotlin 문법 [기본편1]](https://ccclean.tistory.com/287)**
+**[Kotlin 문법 [기본편1]](https://github.com/YongJoOoO/Today-I-Learned/blob/master/Kotlin/ct_1.md)**
 
-**[Kotlin 문법 [기본편2]](https://ccclean.tistory.com/288?category=1082477)**
+**[Kotlin 문법 [기본편2]](https://github.com/YongJoOoO/Today-I-Learned/blob/master/Kotlin/ct_2.md)**
 
-**[Kotlin 문법 [심화편]](https://ccclean.tistory.com/289?category=1082477)**
+**[Kotlin 문법 [심화편]](https://github.com/YongJoOoO/Today-I-Learned/blob/master/Kotlin/ct_3.md)**
 
-**[Kotlin 문법 [코딩테스트편]](https://ccclean.tistory.com/290?category=1082477)**
+**[Kotlin 문법 [최종편]](https://github.com/YongJoOoO/Today-I-Learned/blob/master/Kotlin/ct_7.md)**
 
 
 ### 🟩 JAVA
