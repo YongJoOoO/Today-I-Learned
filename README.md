@@ -285,14 +285,13 @@
 
 [**Ch05. 시스템 모델링**](https://ccclean.tistory.com/245?category=1086250)
 
-**[Ch06. 아키텍처 설계](https://ccclean.tistory.com/260?category=1086250)**
+**[Ch06. 아키텍처 설계](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch06.md)**
 
-**[Ch07. 설계와 구현](https://ccclean.tistory.com/261?category=1086250)**
+**[Ch07. 설계와 구현](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch07.md)**
 
-**[Ch08. 소프트웨어 테스팅](https://ccclean.tistory.com/262?category=1086250)** 
+**[Ch08. 소프트웨어 테스팅](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch08.md)** 
 
 **[JUnit을 활용한 테스팅 커버리지](https://ccclean.tistory.com/285)**
-
 
 ### 🟩 빅데이터
 
