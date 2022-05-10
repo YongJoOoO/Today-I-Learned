@@ -103,35 +103,37 @@
 
 
 ### 🟩 JAVA
+
 📌[완료] 혼자 공부하는 JAVA    
 
-[ch01. 자바 시작하기 (1)](https://www.notion.so/ch01-1-fe1adc9f6d3a494b9d053aa48595ea9b)
+**[Ch01. 자바 시작하기](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch01.md)**
 
-[**ch02. 변수와 타입** (1)](https://www.notion.so/ch02-1-776b8b207a684686b21f85e684fd0473)
+**[Ch02. 변수와 타입](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch02.md)**
 
-[**ch03. 연산자** (1)](https://www.notion.so/ch03-1-56a096c07fa3424f95936b7fe19dfa13)
+**[Ch03. 연산자](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch03.md)**
 
-[**ch04. 흐름 제어문 (조건문과 반복문)** (1)](https://www.notion.so/ch04-1-c2f5435df6464a71a8b7ecedbc6e1421)
+**[Ch04. 흐름 제어문(조건문과 반복문)](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch04.md)**
 
-[**ch05. 참조 타입** (1)](https://www.notion.so/ch05-1-cd57bfdfdeed4ffe9ee41bcb9e243ceb)
+**[Ch05. 참조 타입](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch05.md)**
 
-[**ch06. 클래스** (1)](https://www.notion.so/ch06-1-97d8f00ed15c4cb49082fea417c3bdfa)
+**[Ch06. 클래스](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch06.md)**
 
-[**ch07. 상속** (1)](https://www.notion.so/ch07-1-bd48651d12c7402b9185f9e6c2ef86d3)
+**[Ch07. 상속](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch07.md)**
 
-[**ch08. 인터페이스** (1)](https://www.notion.so/ch08-1-6f45ba98549e4980883a9260c66ce754)
+**[Ch08. 인터페이스](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch08.md)** 
 
-[**ch09. 중첩 클래스와 중첩 인터페이스** (1)](https://www.notion.so/ch09-1-b27ded1dbfc947f389111627910cdb04)
+**[Ch09. 중첩 클래스와 중첩 인터페이스](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch09.md)**
 
-[**ch10. 예외 처리** (1)](https://www.notion.so/ch10-1-a43a7ce382b242ccba4d27eb82f53a13)
+**[Ch10. 예외 처리](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch10.md)**
 
-[**ch11. 기본 API 클래스** (1)](https://www.notion.so/ch11-API-1-f2f1a718b71a467b9a7a2f66f5af80ab)
+**[Ch11. 기본 API 클래스](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch11.md)**
 
-[**ch12. 스레드** (1)](https://www.notion.so/ch12-1-aca7a5b84678492a9ff57b82c2ea8c53)
+**[Ch12. 스레드](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch12.md)**
 
-[**ch13. 컬렉션 프레임워크** (1)](https://www.notion.so/ch13-1-8569dd48a5924ed6b8bdd19ef4309ad4)
+**[Ch13. 컬렉션 프레임워크](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch13.md)**
 
-[**ch14. 입출력 스트림** (1)](https://www.notion.so/ch14-1-e9684da54e4e4c9a9071b75f49417170)
+**[Ch14. 입출력 스트림](https://github.com/YongJoOoO/Today-I-Learned/blob/master/JAVA/JAVA/Ch14.md)**
+
 
 ### 🟩 Java GUI
 
