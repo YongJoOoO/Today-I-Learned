@@ -3,7 +3,7 @@
 ### 🟩 Java Spring 기본 정리
 📌 [완료] 초보 웹 개발자를 위한 스프링 5
 
-[**Ch01. 스프링 기본 설명**](https://ccclean.tistory.com/139?category=1074081)
+**[Ch01. 스프링 기본 설명**](https://ccclean.tistory.com/139?category=1074081)**
 
 **[Ch02. 스프링 시작하기](https://ccclean.tistory.com/140?category=1074081)**
 
@@ -59,7 +59,6 @@
 3. **[Spring MVC 다양한 기능들 -(2)](https://ccclean.tistory.com/240?category=1081413)** 
 
  . . (진행 중)
-
 
 ### 🟩 [학교] Spring Framework
 📌 [진행 중] 학교 실습
@@ -312,4 +311,3 @@
 **[확률 입문](https://ccclean.tistory.com/273?category=1091111)** 
 
 **[추정 및 검정](https://ccclean.tistory.com/274?category=1091111)**
-
