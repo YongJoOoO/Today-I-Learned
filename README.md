@@ -258,7 +258,6 @@
 **[6장. 연습문제](https://ccclean.tistory.com/13?category=1038223)**
 
 
-
 ### 🟩 운영체제
  **📌[교재] 공룡책 - 운영체제**
 
@@ -291,6 +290,9 @@
 **[Ch08. 소프트웨어 테스팅](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch08.md)** 
 
 **[JUnit을 활용한 테스팅 커버리지](https://ccclean.tistory.com/285)**
+
+**[[과제] JUnit 활용 동등분할/단순경로 테스팅](https://ccclean.tistory.com/286)**
+
 
 ### 🟩 빅데이터
 
