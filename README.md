@@ -81,6 +81,10 @@
 
 **➕ [MySQL 설치](https://ccclean.tistory.com/278)**
 
+**➕ [스프링 DB 연동 개념 복습](https://ccclean.tistory.com/292?category=1086059)**
+
+**[10주차| 스프링 DB 연동 실습](https://ccclean.tistory.com/293)**
+
 . . . (진행 중)
 
 ### 🟩 Kotlin 문법 정리
