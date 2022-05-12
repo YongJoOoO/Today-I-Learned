@@ -87,6 +87,8 @@
 
 **➕ [트랜잭션 처리 개념 복습](https://ccclean.tistory.com/294)**
 
+**➕ [스프링 JDBC, Mapper 개념 복습](https://ccclean.tistory.com/295?category=1086059)**
+
 . . . (진행 중)
 
 ### 🟩 Kotlin 문법 정리
