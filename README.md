@@ -277,11 +277,12 @@
 
 
 ### 🟩 소프트웨어 공학
+
 **📌 [교재] 소프트웨어 공학 10판- 한티미디어**
 
-[**Ch01. 서론**](https://ccclean.tistory.com/219?category=1086250)
+**[Ch01. 서론](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch01.md)**
 
-[**Ch02. 소프트웨어 프로세스**](https://ccclean.tistory.com/220?category=1086250) 
+[**Ch02. 소프트웨어 프로세스**](https://ccclean.tistory.com/220?category=1086250)
 
 [**Ch03. 애자일 소프트웨어 개발**](https://ccclean.tistory.com/224?category=1086250)
 
