@@ -89,6 +89,8 @@
 
 **➕ [스프링 JDBC, Mapper 개념 복습](https://ccclean.tistory.com/295?category=1086059)**
 
+**➕ [MyBatis토대로 DB 관리 개념 복습](https://github.com/YongJoOoO/Today-I-Learned/blob/master/Spring/MyBatis.md)**
+
 . . . (진행 중)
 
 
