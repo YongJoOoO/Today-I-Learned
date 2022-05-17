@@ -244,6 +244,7 @@
 
 ### 🟩 Python GUI
  📌 [학교] 오픈소스 프로그래밍
+
 **[VSCode_pyGame 환경 설치 오류 해결](https://ccclean.tistory.com/42?category=1046084)**
 
 **[파이썬_for Beginner_(1)](https://ccclean.tistory.com/93?category=1046084)** 
@@ -260,7 +261,7 @@
 
 
 ### 🟩 컴퓨터 구조론
- **📌 [교재] 생능 - 컴퓨터구조론** 
+📌 [교재] 생능 - 컴퓨터구조론
 
  **[2장. 연습문제](https://ccclean.tistory.com/3?category=1038223)**
 
@@ -274,7 +275,7 @@
 
 
 ### 🟩 운영체제
- **📌[교재] 공룡책 - 운영체제**
+ 📌[교재] 공룡책 - 운영체제
 
 **[프로세스 우선순위 큐 구현](https://ccclean.tistory.com/71?category=1064678)**
 
@@ -287,7 +288,7 @@
 
 ### 🟩 소프트웨어 공학
 
-**📌 [교재] 소프트웨어 공학 10판- 한티미디어**
+📌 [교재] 소프트웨어 공학 10판- 한티미디어
 
 **[Ch01. 서론](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch01.md)**
 
@@ -312,7 +313,8 @@
 
 ### 🟩 빅데이터
 
-**📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론**  
+📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론
+
 
 **[R_Studio IDE 설치](https://ccclean.tistory.com/246?category=1091111)** 
 
