@@ -146,7 +146,7 @@
 
 
 ### 🟩 Java GUI
-
+  📌[교재] 어서와 JAVA는 처음이지
 **[GUI_그래픽 사용자 인터페이스](https://ccclean.tistory.com/45?category=1046557)** 
 
 **[GUI_인터페이스, 람다식, 패키지](https://ccclean.tistory.com/48?category=1046557)** 
@@ -163,7 +163,7 @@
 
 
 ### 🟩 Android App 앱 프로그래밍
- **📌 [완료] 깡쌤의 안드로이드 앱 프로그래밍 with 코틀린**
+ 📌 [완료] 깡쌤의 안드로이드 앱 프로그래밍 with 코틀린
 
 **[Ch01. Android Studio 기본 환경 설정](https://ccclean.tistory.com/201?category=1082777)**
 
@@ -209,6 +209,9 @@
 
 
 ### 🟩 C언어
+📌 [교재] 혼자 공부하는 C언어/ 동빈나 - 프로그래밍 기초 강의 /나도코딩 - C언어 문법 총정리 
+
+📌 [학교] 프로그래밍 기초 + 프로그래밍 응용
 
 **[프로그래밍 기초_C언어](https://ccclean.tistory.com/15?category=1038222)** 
 
@@ -226,6 +229,7 @@
 
 
 ### 🟩 Python
+ 📌 [교재] 혼자 공부하는 python
 
 **[ch01. 파이썬 시작](https://ccclean.tistory.com/39?category=1045475)** 
 
@@ -239,7 +243,7 @@
 
 
 ### 🟩 Python GUI
-
+ 📌 [학교] 오픈소스 프로그래밍
 **[VSCode_pyGame 환경 설치 오류 해결](https://ccclean.tistory.com/42?category=1046084)**
 
 **[파이썬_for Beginner_(1)](https://ccclean.tistory.com/93?category=1046084)** 
