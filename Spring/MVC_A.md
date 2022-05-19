@@ -23,3 +23,4 @@
 - **@Service** : Component의 일종으로, Controller에서 호출하는 메소드를 가지고 있는 Bean을 정의
 - **@Repository** :  Component의 일종으로, @Service로 정의한 Bean에서 호출하는 메소드를 갖는 Bean 정의함. 이  빈은 **DB 관련 작업을 구현**함.
 - **@ConrollerAdvice** : 예외 발생 시 사용할 Global Exception Handler로 사용할 Bean을 등록
+- <img width="428" alt="img" src="https://user-images.githubusercontent.com/39732720/169420436-2cbf06a0-f967-4755-b9ff-5405fd826217.png">
