@@ -93,6 +93,10 @@
 
 **[11주차| MyBatis & JSP 실습](https://ccclean.tistory.com/297)**
 
+**➕ [MVC에MyBatis 연동하기](https://github.com/YongJoOoO/Today-I-Learned/blob/master/Spring/MVC_MyBatis.md)** 
+
+**➕ [MVC 프로젝트 구조](https://github.com/YongJoOoO/Today-I-Learned/blob/master/Spring/MVC_A.md)** 
+
 . . . (진행 중)
 
 
