@@ -97,6 +97,10 @@
 
 **➕ [MVC 프로젝트 구조](https://github.com/YongJoOoO/Today-I-Learned/blob/master/Spring/MVC_A.md)** 
 
+**➕ [Restful API 서버에 MySql, MyBatis 활용한 데이터 관리](https://ccclean.tistory.com/301)**
+
+**➕ [Spring Boot 에 JSP 파일 연동을 위한 세팅](https://ccclean.tistory.com/302)** 
+
 . . . (진행 중)
 
 ### 🟩 Kotlin 문법 정리
