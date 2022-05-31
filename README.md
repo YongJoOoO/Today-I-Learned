@@ -327,7 +327,6 @@
 
 📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론
 
-
 **[R_Studio IDE 설치](https://ccclean.tistory.com/246?category=1091111)** 
 
 **[R 기본 문법](https://ccclean.tistory.com/252?category=1091111)** 
