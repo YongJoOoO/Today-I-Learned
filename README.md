@@ -102,7 +102,9 @@
 
 **[12주차| JSP_Request 관련 실습](https://ccclean.tistory.com/303)**
 
- . . (진행 중)
+**[13주차| Spring MVC_JSP & DB 연동 실습](https://ccclean.tistory.com/304)**
+
+**[-> 종강 : Spring Framework 수업]**
 
 
 ### 🟩 Kotlin 문법 정리
