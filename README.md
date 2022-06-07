@@ -326,6 +326,15 @@
 
 **[[과제] JUnit 활용 동등분할/단순경로 테스팅](https://ccclean.tistory.com/286)**
 
+**[Ch11. 신뢰성 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch11.md)**
+
+**[Ch15. 소프트웨어 재사용](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch15.md)**
+
+**[Ch17. 분산 소프트웨어 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch17.md)**
+
+**[Ch18. 서비스 지향 소프트웨어 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch18.md)**
+
+
 
 ### 🟩 빅데이터
 
