@@ -175,7 +175,6 @@
 **[GUI_마우스 이벤트_사각형 그리기](https://ccclean.tistory.com/77?category=1046557)** 
 
 
-
 ### 🟩 Android App 앱 프로그래밍
  📌 [완료] 깡쌤의 안드로이드 앱 프로그래밍 with 코틀린
 
@@ -240,9 +239,6 @@
 **[프로그래밍 응용_배열](https://ccclean.tistory.com/91?category=1038222)**
 
 **[프로그래밍 응용_포인터](https://ccclean.tistory.com/92?category=1038222)**
-
-
-
 
 ### 🟩 Python
  📌 [교재] 혼자 공부하는 python
@@ -357,3 +353,4 @@
 **[확률 입문](https://ccclean.tistory.com/273?category=1091111)** 
 
 **[추정 및 검정](https://ccclean.tistory.com/274?category=1091111)**
+
