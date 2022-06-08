@@ -334,6 +334,10 @@
 
 **[Ch18. 서비스 지향 소프트웨어 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch18.md)**
 
+**[[과제] Activity network와 Bar chart 과제](https://github.com/YongJoOoO/Assignments_2022/blob/master/SoftwareEngineering/12%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.pdf)**
+
+**[Ch23. 프로젝트 계획 수립](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch23.md)**
+
 ### 🟩 빅데이터
 
 📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론
