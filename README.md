@@ -324,6 +324,8 @@
 
 **[Ch11. 신뢰성 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch11.md)**
 
+**[Ch12. 안전성 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch12.md)**
+
 **[Ch15. 소프트웨어 재사용](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch15.md)**
 
 **[Ch17. 분산 소프트웨어 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch17.md)**
@@ -333,6 +335,8 @@
 **[[과제] Activity network와 Bar chart 과제](https://github.com/YongJoOoO/Assignments_2022/blob/master/SoftwareEngineering/12%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.pdf)**
 
 **[Ch23. 프로젝트 계획 수립](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch23.md)**
+
+**[Ch25. 형상 관리](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch25.md)**
 
 ### 🟩 빅데이터
 
