@@ -322,6 +322,10 @@
 
 **[[과제] JUnit 활용 동등분할/단순경로 테스팅](https://ccclean.tistory.com/286)**
 
+**[Ch09. 소프트웨어 진화](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch09.md)**
+
+**[Ch10. 확실성 있는 시스템](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch10.md)**
+
 **[Ch11. 신뢰성 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch11.md)**
 
 **[Ch12. 안전성 공학](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch12.md)**
@@ -337,6 +341,7 @@
 **[Ch23. 프로젝트 계획 수립](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch23.md)**
 
 **[Ch25. 형상 관리](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch25.md)**
+
 
 ### 🟩 빅데이터
 
