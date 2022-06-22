@@ -342,6 +342,8 @@
 
 **[Ch25. 형상 관리](https://github.com/YongJoOoO/Today-I-Learned/blob/master/SoftwareEnginnering/Ch25.md)**
 
+**[[과제] Git 버전관리 관련 과제](https://ccclean.tistory.com/326)**
+
 ### 🟩 빅데이터
 
 📌 [교재] 빅데이터 분석 R과 빅데이터 플랫폼 하둡 개론
