@@ -365,6 +365,3 @@
 **[추정 및 검정](https://ccclean.tistory.com/274?category=1091111)**
 
 **[시계열 분석](https://ccclean.tistory.com/323)**           
-
-
-
